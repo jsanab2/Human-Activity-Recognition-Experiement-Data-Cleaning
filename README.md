@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-Experiement-Data-Cleaning
+# Human-Activity-Recognition-Experiment-Data-Cleaning
 Jhon J. Sanabria ‘README” for the data tidying assignment
 This is the documentation for the files, data and data transformations for the tidying of the Human Activity Recognition Experiment reported as: 
 
